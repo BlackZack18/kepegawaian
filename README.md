@@ -37,7 +37,3 @@ Gunakan kredensial berikut untuk login ke dalam sistem:
 
 ## Kontributor
 - Rakin Zakiy Saputra - 10122373
-
-## Lisensi
-Proyek ini dibuat untuk keperluan akademik dan tidak memiliki lisensi resmi.
-
